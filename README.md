@@ -1,36 +1,13 @@
 # vue-lib-example
 
-## Project setup
-```
-npm install
-```
+This repository is an example for a medium post on how to create a vue component for the community.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This post will walk you through the process of creating a npm ready js package, and make a demo website using Github Pages. Have a look at the post [here]().
 
-### Compiles and minifies for production
-```
-npm run build
-```
+You can also just clone this repository and replace `MyComponent.vue` and its references with your component.
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+Created by [Tom Quinonero][link-author]
 
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
 
-### Run your unit tests
-```
-npm run test:unit
-```
+[link-author]: https://tomquinonero.com
