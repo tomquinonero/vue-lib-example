@@ -1,7 +1,7 @@
 {
   "name": "vue-lib-example",
   "main": "./dist/lib.common.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -29,7 +29,11 @@
     "sass-loader": "^7.0.1",
     "vue-template-compiler": "^2.5.17"
   },
-  "files": [ "dist/*", "src/*", "*.json" ],
+  "files": [
+    "dist/*",
+    "src/*",
+    "*.json"
+  ],
   "eslintConfig": {
     "root": true,
     "env": {
